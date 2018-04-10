@@ -1,8 +1,6 @@
 # gitskills
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
+Creating a new branch is quick and simple
 update content from dev branch.
 Git is a free sofware, test bug branch.
+Test stash function.
+
